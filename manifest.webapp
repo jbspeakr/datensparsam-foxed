@@ -1,19 +1,4 @@
 {
-  "name": "Datensparsam",
-  "description": "Der Generator für Übermittlungssperren",
-  "launch_path": "/",
-  "icons": {
-    "128": "/img/icon-128.png"
-  },
-  "developer": {
-    "name": "Jan Brennenstuhl",
-    "url": "http://jan.brennenstuhl.me"
-  },
-  "default_locale": "de"
-}
-
-
-{
   "version": "0.1",
   "name": "Datensparsam",
   "description": "Der Generator für Übermittlungssperren",
